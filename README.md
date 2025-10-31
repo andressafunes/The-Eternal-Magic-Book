@@ -1,7 +1,9 @@
 # 📚 THE ETERNAL MAGIC BOOK
 
 ![Status: Concluído] 
+
 ![Tipo: Projeto de Jogo Digital Educacional - TCC]
+
 ![Ano: 2017]
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso de Tecnologia em Jogos Digitais da **FATEC Americana** em 2017.
