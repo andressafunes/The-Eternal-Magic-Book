@@ -49,10 +49,9 @@ Como este repositório contém apenas a *build* final do jogo (o executável) e 
 
 ### 🔗 Link para o Jogo
 
-O jogo final pode ser acessado e baixado através da área de Releases do GitHub ou na plataforma Itch.io:
+O jogo final pode ser acessado e baixado através da área de Releases do GitHub:
 
-* **Download (GitHub Release):** [COLE O LINK DO SEU RELESE AQUI]
-* **Página Oficial (Itch.io):** [COLE O LINK DO SEU ITCH.IO AQUI]
+* **Download (GitHub Release):** (https://github.com/andressafunes/The-Eternal-Magic-Book/releases/tag/final-build)
 
 ### ⚙️ Como Rodar
 
