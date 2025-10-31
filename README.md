@@ -1,5 +1,8 @@
 # 📚 THE ETERNAL MAGIC BOOK
 
+<img width="1025" height="767" alt="image" src="https://github.com/user-attachments/assets/4c1d699b-cd92-430f-838a-eec7403fdd9f" />
+
+
 ![Status: Concluído] 
 
 ![Tipo: Projeto de Jogo Digital Educacional - TCC]
@@ -51,9 +54,9 @@ Como este repositório contém apenas a *build* final do jogo (o executável) e 
 
 ### 🔗 Link para o Jogo
 
-O jogo final pode ser acessado e baixado através da área de Releases do GitHub:
+O jogo final pode ser acessado e baixado através da área de Releases do GitHub.
 
-* **Download (GitHub Release):** (https://github.com/andressafunes/The-Eternal-Magic-Book/releases/tag/final-build)
+* **Download (GitHub Release):** [CLIQUE AQUI PARA BAIXAR O JOGO (.ZIP)](https://github.com/andressafunes/The-Eternal-Magic-Book/releases/download/v1.0.0/The+Eternal+Magic+Book.zip)
 
 ### ⚙️ Como Rodar
 
